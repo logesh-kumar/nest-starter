@@ -32,7 +32,7 @@
     "@nestjs/websockets": "^6.6.7",
     "bcryptjs": "^2.4.3",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.10.0",
+    "class-validator": "^0.14.0",
     "compression": "^1.7.4",
     "config": "^3.2.2",
     "csurf": "^1.10.0",
